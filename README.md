@@ -140,3 +140,7 @@ Related Search Terms
 Twitch ViewBot, Twitch Live ViewBot, Twitch Viewer Bot, Twitch ChatBot, Twitch AI ChatBot, Twitch AI Bot, Twitch FollowBot, Twitch PollBot, Kick ViewBot, Kick Live ViewBot, Kick Viewer Bot, Kick ChatBot, Kick AI ChatBot, Kick AI Bot, Kick FollowBot, Kick PollBot, AI streaming tools, live streaming automation, AI chat interactions, viewer analytics, GEO targeting, Twitch streaming tools, Kick streaming tools, BotLiva.
 
 Explore BotLiva's Twitch and Kick services: https://botliva.com/
+
+This website is in no way affiliated with, authorized by, maintained by, sponsored by, or endorsed by Twitch (Twitch Interactive, Inc.) or Kick (Kick Streaming Pty Ltd). All trademarks, logos, and brand names are the property of their respective owners. The use of these names, trademarks, and brands does not imply endorsement or partnership with the respective companies. This site operates independently and has no official connection with Twitch or Kick.
+
+
